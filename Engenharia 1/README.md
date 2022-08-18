@@ -3,3 +3,4 @@
 Titus Winters, Software Engineering at Google </p>
 
 <h3>Comentário</h3>
+<p> De modo geral, vimos que a engenharia de software e a programação estão relacionados entre si, entretanto a engenharia de software abrange mais tarefas além da própria programação. O engenheiro de software precisa não apenas desenvolver o programa, como também realizar a manutenção dos códigos quando necessário, ou até mesmo modificá-lo por completo, por isso o tempo é tão importante nesta área.</p>
