@@ -8,3 +8,4 @@ Titus Winters, Software Engineering at Google </p>
 <h2> Qual é o trade-off em relação ao API </h2>
 
 <p> Neste API, de acordo com a escolha dos requisitos, acredito que o trade-off seria poder dar o controle de acesso pro cliente, podendo guardar os dados por eles criados, a partir do sistema criado pela linguagem de programação escolhida (no caso o Java Desktop juntamente com o SGBD MySQL)</p>
+<p> Entretanto, fazer a conexão entre a linguagem e o banco é o lado ruim deste trade-off, pois existem outras linguagens que fazem esta conexão de maneira mais simples.</p>
