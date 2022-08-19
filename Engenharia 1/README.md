@@ -5,4 +5,5 @@ Titus Winters, Software Engineering at Google </p>
 <h3>Comentário</h3>
 <p> De modo geral, a engenharia de software e a programação estão relacionados entre si, porém a engenharia de software abrange mais tarefas além da própria programação. O engenheiro de software precisa não apenas desenvolver o programa, como também realizar a manutenção dos códigos quando necessário, ou até mesmo modificá-lo por completo, por isso o tempo é tão importante nesta área.</p>
 
-<h3> O que é o trade-off em relação ao API </h3>
+<h3> Qual é o trade-off em relação ao API </h3>
+<p> Neste API, de acordo com a escolha dos requisitos, acredito que o trade-off seria poder dar o controle de acesso pro cliente, podendo guardar os dados por eles criados, a partir do sistema criado pela linguagem de programação escolhida (no caso o Java Desktop juntamente com o SGBD MySQL)</p>
