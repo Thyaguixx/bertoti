@@ -14,4 +14,7 @@ Titus Winters, Software Engineering at Google </p>
 <h3> --> Exemplo: Loja de Instrumentos Musicais Online </h3>
 
 <h3> Requisitos Funcionais e Não-Funcionais:  </h3>
-<p> Funcionais --> Poder visualizar diversos produtos da loja; Poder visualizar os preços; Filtros para uma busca personalizada; Login de usuário para acompanhar o encaminhamento do produto;  </p>
+<p> Funcionais --> • Poder visualizar diversos produtos da loja; </p>
+<p> • Poder visualizar os preços; </p>
+<p> • Filtros para uma busca personalizada; </p>
+<p> • Login de usuário para acompanhar o encaminhamento do produto; </p>
