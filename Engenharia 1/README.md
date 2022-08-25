@@ -17,6 +17,7 @@ Titus Winters, Software Engineering at Google </p>
 <h3> Requisitos Funcionais e Não-Funcionais:  </h3>
 <p> Requisitos Funcionais: • Poder visualizar diversos produtos da loja; </p>
 <p> • Poder visualizar os preços; </p>
+<p> • Selecionar vários produtos para compra (carrinho); </p>
 <p> • Filtros para uma busca personalizada; </p>
 <p> • Painel com os descontos disponíveis; </p>
 
@@ -24,7 +25,6 @@ Titus Winters, Software Engineering at Google </p>
 
 <p> Requisitos Não-Funcionais: • Login de usuário para acompanhamento em tempo real do produto </p>
 <p> • Painel de suporte ao cliente </p>
-<p> • </p>
-<p> • </p>
-<p> • </p>
-<p> • </p>
+<p> • Interface intuitiva </p>
+<p> • Portabilidade de uso (site e app) </p>
+<p> • Contato direto da Loja com fornecedores, para garantir que os produtos estejam em boas condições.</p>
