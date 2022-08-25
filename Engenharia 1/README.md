@@ -9,3 +9,9 @@ Titus Winters, Software Engineering at Google </p>
 
 <p> Neste API, de acordo com a escolha dos requisitos, acredito que o trade-off seria poder dar o controle de acesso pro cliente, podendo guardar os dados por eles criados, a partir do sistema criado pela linguagem de programação escolhida (no caso o Java Desktop juntamente com o SGBD MySQL)</p>
 <p> Entretanto, fazer a conexão entre a linguagem e o banco é o lado ruim deste trade-off, pois existem outras linguagens que fazem esta conexão de maneira mais simples.</p>
+
+<h2> Atividades de Requisitos </h2>
+<h3> --> Exemplo: Loja de Instrumentos Musicais Online </h3>
+
+<h3> Requisitos Funcionais e Não-Funcionais:  </h3>
+<p> Funcionais --> Poder visualizar diversos produtos da loja; Poder visualizar os preços; Filtros para uma busca personalizada; Login de usuário para acompanhar o encaminhamento do produto;  </p>
