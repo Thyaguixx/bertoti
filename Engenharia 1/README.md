@@ -12,7 +12,7 @@ Titus Winters, Software Engineering at Google </p>
 <p> Entretanto, fazer a conexão entre a linguagem e o banco é o lado ruim deste trade-off, pois existem outras linguagens que fazem esta conexão de maneira mais simples.</p>
 
 <h2> Atividades de Requisitos </h2>
-<h3> --> Exemplo: Loja de Instrumentos Musicais Online </h3>
+<h3> --> Exemplo: Sistema para Biblioteca </h3>
 
 <h3> Requisitos Funcionais e Não-Funcionais:  </h3>
 <p> Requisitos Funcionais: • Poder visualizar diversos produtos da loja; </p>
