@@ -15,7 +15,7 @@ Titus Winters, Software Engineering at Google </p>
 <h3> --> Exemplo: Sistema para Biblioteca </h3>
 
 <h3> Requisitos Funcionais e Não-Funcionais:  </h3>
-<p> Requisitos Funcionais: </p>
+**Requisitos Funcionais: **
 
 <p> • Poder visualizar diversos produtos da loja; </p>
 <p> • Poder visualizar os preços; </p>
