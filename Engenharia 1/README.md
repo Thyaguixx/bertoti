@@ -19,7 +19,7 @@ Titus Winters, Software Engineering at Google </p>
 **Requisitos Funcionais:**
 
 <p> • Poder adicionar, alterar e excluir livros; </p>
-<p> • Poder visualizar os preços; </p>
+<p> • Poder visualizar se os livros estão disponíveis, seus preços e se podem alugar de forma gratuita; </p>
 <p> • Selecionar vários produtos para compra (carrinho); </p>
 <p> • Filtros para uma busca personalizada; </p>
 <p> • Painel com os descontos disponíveis. </p>
