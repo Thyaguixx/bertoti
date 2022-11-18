@@ -19,7 +19,6 @@ Titus Winters, Software Engineering at Google </p>
 **Requisitos Funcionais:**
 
 <p> • Poder adicionar, alterar e excluir livros. </p>
-<p> • Poder visualizar se os livros estão disponíveis, seus preços e se podem alugar de forma gratuita. </p>
 <p> • Selecionar vários livros para compra ou para alugar (máximo de 2 alugados por pessoa). </p>
 <p> • Poder buscar o livro desejado por gênero ou faixa etária. </p>
 
@@ -30,5 +29,6 @@ Titus Winters, Software Engineering at Google </p>
 <p> • Painel para feedbacks do cliente. </p>
 <p> • Painel de suporte ao cliente. </p>
 <p> • Interface intuitiva. </p>
-<p> • Portabilidade de uso (site e app). </p>
-<p> • Contato direto da Biblioteca com seus fornecedores, para garantir que os produtos estejam em boas condições.</p>
+
+<p> Diagrama de Caso de Uso </p>
+<img src"bertoti/Engenharia 1/imagens/Diagrama de Caso de Uso.jpeg">
