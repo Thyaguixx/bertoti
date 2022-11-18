@@ -30,5 +30,5 @@ Titus Winters, Software Engineering at Google </p>
 <p> • Painel de suporte ao cliente. </p>
 <p> • Interface intuitiva. </p>
 
-<p> Diagrama de Caso de Uso </p>
-<img src"bertoti/Engenharia 1/imagens/Diagrama de Caso de Uso.jpeg">
+<h2> Diagrama de Caso de Uso </h2>
+<img src= bertoti/Engenharia 1/imagens/Diagrama de Caso de Uso.jpeg>
