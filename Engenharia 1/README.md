@@ -36,4 +36,4 @@ Titus Winters, Software Engineering at Google </p>
 <br>
 
 <h2> Diagrama de Classes </h2>
-<img src="imagens/Diagrama de Classe.jpg">
+<img src="imagens/Diagrama de Classes.jpg">
