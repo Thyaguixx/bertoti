@@ -32,3 +32,8 @@ Titus Winters, Software Engineering at Google </p>
 
 <h2> Diagrama de Caso de Uso </h2>
 <img src="imagens/Diagrama de Caso de Uso certo.jpg">
+
+<br>
+
+<h2> Diagrama de Classes </h2>
+<img src="imagens/Diagrama de Classe.jpg">
