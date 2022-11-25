@@ -18,14 +18,18 @@ Titus Winters, Software Engineering at Google </p>
 
 **Requisitos Funcionais:**
 
-<p> • Poder adicionar, alterar e excluir livros. </p>
-<p> • Selecionar vários livros para compra ou para alugar (máximo de 2 alugados por pessoa). </p>
-<p> • Poder buscar o livro desejado por gênero ou faixa etária. </p>
+<p> • Poder adicionar, alterar e excluir livros </p>
+<p> • Visualizar livros que estão disponíveis para comprar e para alugar </p>
+<p> • Poder buscar o livro desejado pelo nome do livro ou pelo nome do autor. </p>
+<p> • Poder comparar o preço entre livros (de 2 em 2). </p>
 
 <br>
 
 **Requisitos Não-Funcionais:**
 
+<p> • Utilzar o padrão MVC para ter uma melhor organização </p>
+<p> • Poder interagir dinamicamente com o sistema (neste exemplo, utilizando o console para tal) </p>
+<p> Funcionalidades que podem ser acrescentadas no futuro: </p>
 <p> • Painel para feedbacks do cliente. </p>
 <p> • Painel de suporte ao cliente. </p>
 <p> • Interface intuitiva. </p>
