@@ -42,3 +42,19 @@ Titus Winters, Software Engineering at Google </p>
 
 <h2> Diagrama de Classes </h2>
 <img src="imagens/Diagrama de Classes.jpg">
+
+<h2> Classe Livro </h2>
+<img src="imagens/img classe Livro pt1.PNG">
+<img src="imagens/img classe Livro pt2.PNG">
+
+<br>
+
+<h2> Classe Biblioteca </h2>
+<img src="imagens/img classe Biblioteca pt1.PNG">
+<img src="imagens/img classe Biblioteca pt2.PNG">
+
+<br>
+
+<h2> Classe Principal </h2>
+<img src="imagens/img classe Principal pt1.PNG">
+<img src="imagens/img classe Principal pt2.PNG">
