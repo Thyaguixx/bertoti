@@ -29,7 +29,8 @@ Titus Winters, Software Engineering at Google </p>
 
 <p> • Utilzar o padrão MVC para ter uma melhor organização </p>
 <p> • Poder interagir dinamicamente com o sistema (neste exemplo, utilizando o console para tal) </p>
-<p> Funcionalidades que podem ser acrescentadas no futuro: </p>
+
+**Funcionalidades que podem ser acrescentadas no futuro:**
 <p> • Painel para feedbacks do cliente. </p>
 <p> • Painel de suporte ao cliente. </p>
 <p> • Interface intuitiva. </p>
