@@ -1,6 +1,12 @@
 # Análise de interfaces com base nas Heurísticas de Jakob Nielsen
 
-### 1 – Ajuda e documentação
+### 1 - Visibilidade do status do sistema
+
+Esta heurística diz respeito ao fator da pessoa usuária poder diagnosticar na interface, por si só, sem a necessidade de ajuda extra, o que está acontecendo na interface. Entendendo o status da interface, a pessoa poderá decidir com mais facilidade quais passos deseja tomar em seguida.
+
+
+
+### 10 – Ajuda e documentação
 
 Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.  
 
