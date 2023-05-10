@@ -4,7 +4,9 @@
 
 Esta heurística diz respeito ao fator da pessoa usuária poder diagnosticar na interface, por si só, sem a necessidade de ajuda extra, o que está acontecendo na interface. Entendendo o status da interface, a pessoa poderá decidir com mais facilidade quais passos deseja tomar em seguida.
 
+![Tela youtube](./imagens/youtube.png)
 
+Um exemplo deste heurística é a interface do YouTube, que ao longo do vídeo mostra o progresso deste mesmo, dando ao usuário a visibilidade de início e fim. Também disponibiliza as opções de pausar, avançar, aumentar e diminuir volume, entre outras opções para melhor a imersão do usuário na plataforma.
 
 ### 10 – Ajuda e documentação
 
