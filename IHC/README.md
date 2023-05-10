@@ -1,6 +1,6 @@
 # Análise de interfaces com base nas Heurísticas de Jakob Nielsen
 
-### 10 – Ajuda e documentação
+### 1 – Ajuda e documentação
 
 Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.  
 
