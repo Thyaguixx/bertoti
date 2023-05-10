@@ -49,6 +49,30 @@ Devemos minimizar a quantidade de informações que o usuário precisa memorizar
 
 Na Kabum por exemplo, temos acesso a um histórico de compras, que permite nós usuários visualizar com detalhes os produtos que adquirimos no passado.
 
+### 7 - Flexibilidade e eficiência de uso
+
+A interface deve atender tanto as necessidades dos usuários leigos quanto a dos experientes, os leigos precisam ter as informações bem detalhadas para conseguirem realizar uma tarefa, mas a medida que vão conhecendo a interface precisam conseguir interagir de forma mais rápida, portanto a interface deve permitir que os usuários adaptem ações frequentes de acordo com o nível em que estão.
+
+![Tela menu-excel](./imagens/menu-libreofice.png)
+
+O menu do LibreOffice é bem intuitivo, o que faz os usuários se identificarem rapidamente com as funcionalidades da aplicação. Também há as teclas de atalho, mas realizar uma operação de maneira mais rápida (neste caso vai de gosto pessoal).
+
+### 8 - Estética e design minimalista
+
+Quanto maior a quantidade de informações, mais tempo o usuário vai levar para analisá-las e poder tomar uma decisão, aumentando assim as chances dele abandonar a aplicação/site por achar confuso demais.Portanto o design da interface deve ser minimalista e o conteúdo o mais direto possível, informações que forem secundárias podem ser deixadas em segundo plano, como menus e abas.
+
+![Tela pinterest](./imagens/pinterest.png)
+
+O site do Pinterest traz uma interface simples, porém elegante e de fácil entendimento para prosseguir com seu uso, não poluindo muito a tela para que o usuário possa se localizar.
+
+### 9 - Ajudar o usuário a reconhecer, diagnosticar e se recuperar de erros
+
+Caso dê algo de errado, é importante mostrar ao usuário qual foi o erro e como se recuperar dele, para isso, as mensagens de erro devem ser claras e objetivas, em linguagem simples e próximas da ação que causou o erro.
+
+![Tela loginSpotify](./imagens/spotify.png)
+
+A tela de login do Spotify nos mostra de forma simples aonde ocorreu o erro, e da a dica para que ele seja corrigido.
+
 ### 10 – Ajuda e documentação
 
 Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.  
