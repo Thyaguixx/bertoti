@@ -45,7 +45,7 @@ O site das Lojas Americanas nos mostra ao digitar uma popup com varias opções 
 
 Devemos minimizar a quantidade de informações que o usuário precisa memorizar, para isso, objetos, ações e opções importantes devem ficar visíveis, isso faz com que o cérebro perceba as ações que são similares, reconhecendo assim padrões.
 
-![Tela historico_kabum](./imagens/historicoCompra.png)
+![Tela historico_kabum](./imagens/kabum-historico.png)
 
 Na Kabum por exemplo, temos acesso a um histórico de compras, que permite nós usuários visualizar com detalhes os produtos que adquirimos no passado.
 
