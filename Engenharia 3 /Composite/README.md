@@ -1,3 +1,3 @@
 ## Composite
 
-<img src="Imagens/Composite_IMG.png" style={ textAlign: "center" } />
+<img src="Imagens/Composite_IMG.png" />
